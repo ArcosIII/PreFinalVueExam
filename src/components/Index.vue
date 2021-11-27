@@ -16,7 +16,7 @@
     </b-row>
     <b-row>
       <b-col>
-        <b-link to="/cart"> Show cart </b-link>
+        <b-button to="/cart"> Show cart </b-button>
       </b-col>
     </b-row>
   </fragment>

@@ -44,7 +44,7 @@
     </b-row>
     <b-row>
       <b-col>
-        <b-link to="/"> Main menu </b-link>
+        <b-button to="/"> Main menu </b-button>
       </b-col>
     </b-row>
   </fragment>

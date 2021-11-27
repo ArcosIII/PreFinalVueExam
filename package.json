@@ -37,9 +37,7 @@
       "parser": "babel-eslint"
     },
     "rules": {
-      "vue/no-unused-vars": [{
-        "ignorePattern": "^_"
-      }]
+    
     }
   },
   "browserslist": [
